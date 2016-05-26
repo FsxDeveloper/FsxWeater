@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UPDATE status="ok" >
-<FILE CUR_VER="1.0.0.1" VER="1.0.0.2"  NAME="WEATER TEST UPDATE" URL="http://download.thinkbroadband.com/50MB.zip">220506</FILE>
+<FILE CUR_VER="1.0.0.x" VER="1.0.0.2"  NAME="WEATER TEST UPDATE" URL="http://download.thinkbroadband.com/50MB.zip">220506</FILE>
 </UPDATE>

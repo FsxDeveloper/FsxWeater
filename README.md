@@ -1,2 +1,2 @@
-# FsxWeater
-Prepar3D v3 Live Weater Network / Station (freeware)
+# P3D Live Weather
+Prepar3D v3 Live Weather / Metar Network (freeware)
